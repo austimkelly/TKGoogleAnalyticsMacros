@@ -5,6 +5,11 @@
 //  Copyright (c) 2014 Tim Kelly. All rights reserved.
 //
 
+// Macros based on v3.10 iOS SDK for Google Analytics
+// See: https://developers.google.com/analytics/devguides/collection/ios/v3/
+//
+// You mileage may vary on other releases.
+//
 #import <Foundation/Foundation.h>
 #import "GAI.h"
 #import "GAIDictionaryBuilder.h"
